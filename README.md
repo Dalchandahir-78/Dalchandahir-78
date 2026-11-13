@@ -32,6 +32,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dalchandahir-78&theme=tokyonight" height="165" />
 </p>
 
+## 🚀 Featured Projects
+
+### 1. DevStore - E-commerce Web Application
+- Built using React.js, JavaScript and CSS.
+- Features product browsing and shopping functionality.
+- GitHub: [View Project](https://github.com/Dalchandahir-78/DevStore-E-commerce-Web-Application)
 
 
 ### 🚀 My Projects
