@@ -17,6 +17,14 @@
 - Database: MySQL, SQL
 - Tools: Git, GitHub, VS Code
 
+- 
+### 💻 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,java,git,github,vscode" />
+</p>
+
+
 ### 🚀 My Projects
 
 - DevStore – E-commerce Web Application
